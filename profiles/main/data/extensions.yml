@@ -1,12 +1,12 @@
 disabled:
-  - id: mrmlnc.vscode-pugbeautify
-    uuid: 3ac1d727-45b0-45cb-b26c-8b3296bc165b
   - id: mrmlnc.vscode-jade-snippets
     uuid: a0095eaa-9c78-4f59-be64-7326ee267964
-  - id: steoates.autoimport
-    uuid: 70378119-1d85-4935-9733-0298c7a369a2
+  - id: mrmlnc.vscode-pugbeautify
+    uuid: 3ac1d727-45b0-45cb-b26c-8b3296bc165b
   - id: sasa.vscode-sass-format
     uuid: 37a0d321-bc0d-4455-800c-90716bd69cf0
+  - id: steoates.autoimport
+    uuid: 70378119-1d85-4935-9733-0298c7a369a2
   - id: thekalinga.bootstrap4-vscode
     uuid: 2a658c1b-308a-41e8-805a-fc8abda483bc
   - id: xdebug.php-debug
