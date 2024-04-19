@@ -1,33 +1,17 @@
 disabled:
-  - id: mrmlnc.vscode-jade-snippets
-    uuid: a0095eaa-9c78-4f59-be64-7326ee267964
-  - id: mrmlnc.vscode-pugbeautify
-    uuid: 3ac1d727-45b0-45cb-b26c-8b3296bc165b
-  - id: sasa.vscode-sass-format
-    uuid: 37a0d321-bc0d-4455-800c-90716bd69cf0
   - id: steoates.autoimport
     uuid: 70378119-1d85-4935-9733-0298c7a369a2
-  - id: thekalinga.bootstrap4-vscode
-    uuid: 2a658c1b-308a-41e8-805a-fc8abda483bc
-  - id: xdebug.php-debug
-    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
 enabled:
-  - id: aeschli.vscode-css-formatter
-    uuid: 3f770365-3682-44ee-a63e-5ef1b16c74d2
   - id: Angular.ng-template
     uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
   - id: codeandstuff.package-json-upgrade
     uuid: 1f59cde6-3a8c-47e4-b40b-355c1641721a
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: dsznajder.es7-react-js-snippets
-    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: immament.vscode-ngrx-uml
-    uuid: ef05ba28-295f-4c83-b83b-12e0d90193f1
   - id: johnpapa.Angular2
     uuid: 214cbfb9-7c06-4467-bad4-357ae83eb587
   - id: johnpapa.vscode-peacock
@@ -36,10 +20,6 @@ enabled:
     uuid: 850c6bb1-4a81-4f83-a81f-835d651a211c
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
-  - id: ms-dotnettools.csharp
-    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
-  - id: ms-dotnettools.vscode-dotnet-runtime
-    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode-remote.remote-wsl
